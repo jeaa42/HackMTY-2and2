@@ -6,8 +6,7 @@ Video or/and Screenshot
 
 Team: 
 
-    - Name Last Name
-    - Name Last Name
-    - Name Last Name
-    - Name Last Name
-  
+    - Renata Uribe
+    - Hernán Salinas
+    - Armando De La Rosa Last Name
+    - Jorge Arias
